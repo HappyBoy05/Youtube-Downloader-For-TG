@@ -9,4 +9,4 @@ async def start(client, message):
                 ])
 
 	help_image = "https://telegra.ph/file/21170a66aa4733a9a4c26.jpg"
-	await message.reply_photo(help_image,  caption="**💡 HELP 📃...**\n \n__• Just Send your Youtube video url 🌟__ \n__• And i will give Method list to select your choice 😋__\n,reply_markup=alpha2)
+	await message.reply_photo(help_image,  caption="**💡 HELP 📃...**\n \n__• Just Send your Youtube video url 🌟__ \n__• And i will give Method list to select your choice 😋__\n" ,reply_markup=alpha2)
